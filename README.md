@@ -12,14 +12,12 @@
 <br />
 <div align="center">
   <a href="https://modern-forkify.vercel.app/">
-    <img src="./src/img/favicon.png" alt="Logo" height="80"  >
+    <img src="./src/img/TitleIcon.png" alt="Logo" height="80"  >
   </a>
   <h1 align="center">Forkify</h1>
 
   <p align="center">
-    <a href="https://modern-forkify.vercel.app/">View Demo</a>
-    ·
-    <a href="https://github.com/ahmedalam98/Forkify/issues">Report Bug</a>
+    <a href="https://forkify-v2.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -56,7 +54,7 @@ Forkify is a recipe web app using the [Forkify API](https://forkify-api.herokuap
 
 - Available search queries : [Queries](https://forkify-api.herokuapp.com/phrases.html)
 
-![Forkify preview](./src/img/preview.png)
+![Forkify preview](./src/img/overView.png)
 
 ### Features
 
@@ -88,11 +86,11 @@ Forkify is a recipe web app using the [Forkify API](https://forkify-api.herokuap
 
 ### Flowchart
 
-<img src='./src/img/forkify-flowchart.png' alt='flowchart' >
+<img src='./src/ChartsAndArchticture/forkify-flowchart-part-3.png' alt='flowchart' >
 
 ### Architecture
 
-<img src='./src/img/forkify-architecture-recipe-loading.png' alt='architecture' >
+<img src='./src/ChartsAndArchticture/forkify-architecture-recipe-loading.png' alt='architecture' >
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -195,9 +193,3 @@ Don't forget to give the project a star! Thanks!
 5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- [Jonas schmedtmann](https://github.com/jonasschmedtmann)
