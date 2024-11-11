@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://modern-forkify.vercel.app/">
+  <a href="https://forkify-v2.netlify.app/">
     <img src="./src/img/TitleIcon.png" alt="Logo" height="80"  >
   </a>
   <h1 align="center">Forkify</h1>
