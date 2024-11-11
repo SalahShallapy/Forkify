@@ -108,7 +108,7 @@ This project require some prequesites and dependenscies to be installed, you can
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ahmedalam98/Forkify.git
+   git clone https://github.com/SalahShallapy/Forkify
    ```
 2. Go to project folder
 
