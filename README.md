@@ -7,7 +7,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO  -->
 <br />
 <div align="center">
     <img src="./src/img/TitleIcon.png" alt="Logo" height="80"  >
