@@ -10,14 +10,14 @@
 <!-- PROJECT LOGO  -->
 <br />
 <div align="center">
-<a href="https://forkify-v2.netlify.app/">
+<a href="https://forkify-js-master.vercel.app/">
     <img src="./src/img/TitleIcon.png" alt="Logo" height="75">
 </a>
 
 <h1>Mapty</h1>
 
   <p align="center">
-    <a href="https://forkify-v2.netlify.app/">View Demo</a>
+    <a href="https://forkify-js-master.vercel.app/">View Demo</a>
   </p>
 </div>
 
