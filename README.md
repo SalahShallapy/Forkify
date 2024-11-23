@@ -10,10 +10,13 @@
 <!-- PROJECT LOGO  -->
 <br />
 <div align="center">
-    <img src="./src/img/TitleIcon.png" alt="Logo" height="80"  >
+    <img src="./src/img/logo.png" alt="Logo" height="75">
 
-  <h1 align="center">Forkify</h1>
+<h1>Mapty</h1>
 
+  <p align="center">
+    <a href="https://forkify-v2.netlify.app/">View Demo</a>
+  </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
