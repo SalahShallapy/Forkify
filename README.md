@@ -10,7 +10,9 @@
 <!-- PROJECT LOGO  -->
 <br />
 <div align="center">
-    <img src="./src/img/logo.png" alt="Logo" height="75">
+<a href="https://forkify-v2.netlify.app/">
+    <img src="./src/img/TitleIcon.png" alt="Logo" height="75">
+</a>
 
 <h1>Mapty</h1>
 
