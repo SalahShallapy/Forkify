@@ -4,7 +4,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
 <!-- PROJECT LOGO  -->
@@ -14,75 +13,18 @@
     <img src="./src/img/TitleIcon.png" alt="Logo" height="75">
 </a>
 
-<h1>Mapty</h1>
+<h1>Forkify</h1>
 
   <p align="center">
     <a href="https://forkify-js-master.vercel.app/">View Demo</a>
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#built-with">Built With</a></li>
-        <li><a href="#flowchart">Flowchart</a></li>
-        <li><a href="#architecture">Architecture</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#tree-structure">Tree Structure</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+Forkify is a modern web application designed to search for, view, and manage recipes sourced from an external API. Users can explore thousands of recipes, bookmark their favorites for quick access, and even create and upload their own recipes. The application features dynamic rendering, pagination for smoother navigation.
 
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-Forkify is a recipe web app using the [Forkify API](https://forkify-api.herokuapp.com/v2) to allow users to search, view, modify, bookmark and add recipes.
-
-- Available search queries : [Queries](https://forkify-api.herokuapp.com/phrases.html)
+## Project Overview
 
 ![Forkify preview](./src/img/overView.png)
-
-### Features
-
-| User Stories                                                               | Features                                                                                                                                                                              |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Search for recipes                                                         | <ul><li>functionality: input field to send request to API with searched keywords<li>Display results with pagination<li>Display recipe with cooking time, serving and ingredients</ul> |
-| Update the number of servings                                              | <ul><li>Change serving functionality: update all ingredients according ro current number of servings</ul>                                                                             |
-| Bookmark recipes                                                           | <ul><li>Bookmarking functionality: display list of all bookmarked recipes</ul>                                                                                                        |
-| Create recipes                                                             | <ul><li>Users can upload their own recipes</li><li>User recipes will automatically be bookmarked<li>User can only see their own recipes, not recipes from other users</ul>            |
-| Access to bookmarks and recipes when leaving the app and coming back later | <ul><li>Store bookmark data in the browser using "local storage"</ul>                                                                                                                 |
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
----
-
-### Built With
-
-- HTML
-- CSS
-- SASS
-- JavaScript
-- Parcel
-- Babel
-- Forkify API
-- Libraries
-  - fractional
-
----
 
 ### Flowchart
 
@@ -92,46 +34,27 @@ Forkify is a recipe web app using the [Forkify API](https://forkify-api.herokuap
 
 <img src='./src/ChartsAndArchticture/forkify-architecture-recipe-loading.png' alt='architecture' >
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+## Features:
 
----
+- Recipe Search: Search for recipes by name or ingredient.
+- Recipe Details: View detailed instructions, ingredients, and cooking time.
+- Bookmark System: Save and manage favorite recipes.
+- Custom Recipe Uploads: Add your own recipes to the app.
+- Pagination: Browse search results efficiently.
 
-<!-- GETTING STARTED -->
+## Usage:
 
-## Getting Started
+1. Open the application in your web browser.
+2. Use the search bar to look for recipes based on keywords.
+3. Select a recipe to view detailed information.
+4. Bookmark your favorite recipes for future reference.
+5. Add your own recipes using the upload feature.
+6. Navigate through pages of search results using the pagination feature.
 
-This project require some prequesites and dependenscies to be installed, you can view it online using this [demo](https://forkify-recipe.vercel.app). or you can find the instructions below
-
-> To get a local copy, follow these simple steps :
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/SalahShallapy/Forkify
-   ```
-2. Go to project folder
-
-```bash
-cd forkify
-```
-
-3. install dependencies
-
-```bash
-npm install
-```
-
-4. Run start script
-
-```bash
-npm start
-```
-
-#### Tree structure
+## Tree structure
 
 ```
-forkify
+Forkify
 │   .gitignore
 │   .prettierrc
 │   index.html
@@ -175,9 +98,34 @@ forkify
             _upload.scss
 ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+## Installation
 
-<!-- CONTRIBUTING -->
+1. Clone the repo
+   ```bash
+   git clone https://github.com/SalahShallapy/Forkify
+   ```
+2. Go to project folder
+
+```bash
+cd forkify
+```
+
+3. install dependencies
+
+```bash
+npm install
+```
+
+4. Run start script
+
+```bash
+npm start
+```
+
+## Notes
+
+- Api Endpoints : [Forkify API](https://forkify-api.herokuapp.com/v2)
+- Available search queries : [Queries](https://forkify-api.herokuapp.com/phrases.html)
 
 ## Contributing
 
