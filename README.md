@@ -17,6 +17,8 @@
 
   <p align="center">
     <a href="https://forkify-js-master.vercel.app/">View Demo</a>
+    ·
+    <a href="https://github.com/SalahShallapy/Forkify/issues">Report Bug</a>
   </p>
 </div>
 
