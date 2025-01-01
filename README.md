@@ -103,9 +103,11 @@ Forkify
 ## Installation
 
 1. Clone the repo
-   ```bash
-   git clone https://github.com/SalahShallapy/Forkify
-   ```
+
+```bash
+git clone https://github.com/SalahShallapy/Forkify
+```
+
 2. Go to project folder
 
 ```bash
