@@ -9,14 +9,14 @@
 <!-- PROJECT LOGO  -->
 <br />
 <div align="center">
-<a href="https://forkify-js-master.vercel.app/">
+<a href="https://forkify-mocha-psi.vercel.app/">
     <img src="./src/img/TitleIcon.png" alt="Logo" height="75">
 </a>
 
 <h1>Forkify</h1>
 
   <p align="center">
-    <a href="https://forkify-js-master.vercel.app/">View Demo</a>
+    <a href="https://forkify-mocha-psi.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/SalahShallapy/Forkify/issues">Report Bug</a>
   </p>
